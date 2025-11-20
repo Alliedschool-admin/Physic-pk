@@ -1,0 +1,5 @@
+{
+  "name": "PhysicPK: FSc Physics Companion",
+  "description": "An interactive physics learning platform tailored for Pakistani Intermediate (FSc) students. Features interactive simulations for vectors, projectile motion, friction, circular motion, simple harmonic motion (SHM), and optics, plus an AI-powered tutor using Gemini.",
+  "requestFramePermissions": []
+}
